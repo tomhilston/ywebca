@@ -1,0 +1,16 @@
+{
+  "name": "ywca-workspace",
+  "version": "0.0.1",
+  "description": "YWCA Workspace for Tom Hilston",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tomhilston/ywebca.git"
+  },
+  "author": {
+    "name": "Tom Hilston",
+    "email": "tchilston@gmail.com",
+    "url": "https://github.com/tomhilston"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
